@@ -16,7 +16,7 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>vamsi</finalName>
+    <finalName>dockeransible</finalName>
     <pluginManagement>
       <plugins>
         <plugin>
