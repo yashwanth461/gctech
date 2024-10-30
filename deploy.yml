@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: myapp-container
-        image: yaeshvann/myimage  # Docker image to use
+        image: yaeshvann/gtech:2
         ports:
         - containerPort: 8080  # Port on which the container listens
 
